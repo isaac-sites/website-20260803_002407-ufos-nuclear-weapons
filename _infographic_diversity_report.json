@@ -1,0 +1,5075 @@
+{
+  "generated_at_utc": "2026-08-02T23:18:21.797192Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18",
+      "title": "What Nuclear UFO Cases Reveal About Hidden Events",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Time line",
+        "UFO Nuclear Connection Interpretations",
+        "Factors Influencing UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c",
+      "title": "AARO UAP historical",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Historical Record Review Process",
+        "Nuclear Weapons and UAP Claims",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_aaro_archive_standar_a38bf5",
+      "title": "How AARO Checked Decades of UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Historical Record Verification Process",
+        "AARO Evidence Category Distinctions",
+        "AARO Historical Archive Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_aaro_recovery_claims_6487ed",
+      "title": "Did AARO Find Hidden Alien Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Metallic Specimen Testing Process",
+        "AARO Findings vs. Recovery Claims",
+        "Categories of UAP Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_ellsworth_sightings_0dd724",
+      "title": "Ellsworth Sightings and the Search for Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ellsworth Missile Site Observation Chain",
+        "Ellsworth Evidence vs Interpretation",
+        "AARO Historical Record Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_minot_uap_reports_384209",
+      "title": "Minot UAP Reports: What Do Records Show?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of Minot AFB Sightings",
+        "AARO Historical Record Assessment",
+        "Cold War Military Environment Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_secrecy_ufo_narrativ_4c149a",
+      "title": "How Secrecy Shaped Nuclear UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanism of Nuclear UAP Narratives",
+        "AARO Findings on Hidden Programs",
+        "Historical Examples of Secret Aircraft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c_vandenberg_missile_c_eb66be",
+      "title": "What Happened at Vandenberg Missile Sites?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Vandenberg Missile Test Key Stages",
+        "Vandenberg Evidence Quality Analysis",
+        "AARO Evidence Hierarchy Levels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7",
+      "title": "Alien intervention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Time line",
+        "Interpretations of Nuclear UFO Activity",
+        "AARO and Blue Book Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_alien_technology_pro_163728",
+      "title": "What Would Prove Alien Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verification Steps for Recovered Technology",
+        "UAP Data vs. Physical Evidence",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_alien_warning_claims_d5cd30",
+      "title": "Were UFOs Sending Nuclear Warnings?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tug_of_war",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Nuclear Warning Interpretation Gap",
+        "Evidence Patterns at Nuclear Sites",
+        "Unexplained Events vs. Intentional Acts"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_cold_war_ufo_context_64b7ee",
+      "title": "Why Nuclear Sites Shaped UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ingredients of Nuclear Site UFO Narratives",
+        "Interpretations of Malmstrom Air Force Base Incidents",
+        "Contextual Impact on UFO Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_military_ufo_finding_b29d8f",
+      "title": "What Investigations Found About Alien Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of US Military UFO Reviews",
+        "UAP Classification Categories in Reviews",
+        "Military Investigation Data Sources"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_nuclear_ufo_gaps_186856",
+      "title": "Why Nuclear UFO Evidence Remains Unsettled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Requirements for Nuclear UFO Claims",
+        "Interpretations of Nuclear Facility Anomalies",
+        "Barriers to Nuclear UFO Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_alien_intervention_c_dc6ee7_ufo_missile_causatio_12e898",
+      "title": "Did UFOs Really Cause Missile Failures?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Time line",
+        "Causation vs. Correlation Evidence",
+        "Factors Influencing Missile Narratives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4",
+      "title": "Cold War technology",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Cycle of Cold War Secrecy",
+        "U 2 Aircraft vs. UFO Interpretations",
+        "Cold War Technological Variables"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_a12_oxcart_secrecy_d0ba12",
+      "title": "The Secret Plane Behind UFO Confusion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "A 12 OXCART Development Path",
+        "Public Knowledge vs. Classified Reality",
+        "Factors Influencing UFO Interpretations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_cold_war_secrecy_gap_8fe433",
+      "title": "Why Secrets Kept UFO Questions Alive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Time line",
+        "Secrecy vs. Evidence Distinction",
+        "Factors Driving UFO Speculation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_high_altitude_optica_8ea287",
+      "title": "Why Real Aircraft Looked Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Optical Mechanics of U 2 Sightings",
+        "U 2 vs. Standard Aviation Limits",
+        "Project Blue Book Investigation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_radar_ufo_investigat_745a10",
+      "title": "When Radar Made UFO Cases Harder",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cold War Radar Signal Analysis",
+        "Causes of Radar Anomalies",
+        "Radar Evidence Verification Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_rocket_launch_sky_ev_c6637c",
+      "title": "When Rocket Tests Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Atmospheric Rocket Plume Formation",
+        "Cold War Sky Mystery Interpretations",
+        "Visual Mechanics of Rocket Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4_u2_reconnaissance_si_c083b2",
+      "title": "How the U 2 Looked Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Aircraft Public Perception Gap",
+        "U 2 Flight Visual Mechanics",
+        "Project Blue Book Records Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64",
+      "title": "Declassified UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Historical Progression",
+        "Nuclear Site Case Interpretations",
+        "Declassified Archive Source Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_aaro_historical_revi_25192d",
+      "title": "What Did the AARO Review Actually Find?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Historical Review Methodology",
+        "AARO Findings vs. Popular Claims",
+        "Factors Limiting UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_fbi_ufo_files_f02ab1",
+      "title": "Inside the FBI's Released UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 1947–1954 UFO Reporting Pipeline",
+        "Interpretation of the Guy Hottel Memo",
+        "FBI Archive Transparency Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_los_alamos_fireballs_d57191",
+      "title": "What Happened in the Los Alamos Fireballs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Los Alamos Green Fireball Investigation Time line",
+        "Scientific Explanations for Green Fireballs",
+        "Los Alamos Investigation Evidence Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_nuclear_site_reports_1ebac4",
+      "title": "Why UFO Reports Reached Nuclear Facilities",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Nuclear Site UFO Key Stages",
+        "Security Interpretations of UFOs",
+        "Evidence Limits in Nuclear Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_project_sign_origins_b72c79",
+      "title": "How Project Sign Started UFO Investigations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Sign Chronology 1947 1949",
+        "Chiles Whitted Encounter Interpretations",
+        "Project Sign Investigation Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_declassified_documen_f0fd64_reading_ufo_records_3b5c6f",
+      "title": "How to Read Declassified UFO Documents",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "rank_podium"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "data"
+      ],
+      "titles": [
+        "Layers of Declassified UAP Records",
+        "Classifications of Unidentified Knowledge",
+        "Project Blue Book Archive Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69",
+      "title": "UFO evidence standards",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Nuclear UFO Evidence Escalation",
+        "UAP Interpretation Discrepancies",
+        "Nuclear UFO Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_nuclear_ufo_sensor_d_959d36",
+      "title": "What Sensor Data Reveals in Nuclear UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sensor Data Validation Workflow",
+        "Radar vs Infrared Evidence Limits",
+        "Hierarchy of Nuclear UFO Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_nuclear_ufo_transpar_f1cac8",
+      "title": "Why Nuclear UFO Files Stay Disputed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Records Management Pipeline",
+        "Malmstrom Air Force Base Dispute",
+        "Nuclear Security Information Barriers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_ufo_evidence_chain_f5d57a",
+      "title": "Can UFO Records Be Verified Properly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Evidence Chain of Custody",
+        "Malmstrom Air Force Base Case Analysis",
+        "UAP Data Quality Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_ufo_physical_effects_d29863",
+      "title": "Did UFOs Really Affect Nuclear Systems?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Requirements for Physical Effects",
+        "Malmstrom Missile Shutdown Interpretations",
+        "Nuclear Facility Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_ufo_proof_standards_1848c9",
+      "title": "How Much Proof Do UFO Claims Need?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UAP Evidence Escalation Stages",
+        "NASA UAP Data Requirements",
+        "UAP Explanation Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69_unknown_vs_explained_d734e1",
+      "title": "What Does Unidentified Really Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "UAP Investigation Evidence Workflow",
+        "Project Blue Book Interpretations",
+        "Malmstrom Air Force Base Contexts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be",
+      "title": "Extraterrestrial",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Core Extraterrestrial Technology Claims",
+        "UAP Interpretations at Nuclear Sites",
+        "Scientific Standards for Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_crash_retrieval_clai_0e04f3",
+      "title": "Do Recovered UFOs Show Alien Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Incident",
+        "Interpretations of Missing Evidence",
+        "Requirements for Scientific Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_grusch_allegations_ae2fea",
+      "title": "What Do Grusch's UFO Claims Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_butterfly"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "David Grusch Whistleblower Time line",
+        "Grusch Claims vs. AARO Findings",
+        "Barriers to Public Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_nasa_uap_findings_f579d6",
+      "title": "What Does Science Say About UFO Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Scientific Data Requirements",
+        "NASA UAP Evidence Standards vs Public Claims",
+        "NASA UAP Data Deficiency Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_ufo_materials_testin_4d06d0",
+      "title": "Can UFO Materials Prove Alien Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Verification of UAP Materials",
+        "Interpretation of Roswell Debris",
+        "Criteria for Convincing Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_ufo_nuclear_interest_4fe710",
+      "title": "Why Would UFOs Watch Nuclear Weapons?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of Nuclear Site UAPs",
+        "Nuclear Infrastructure and UFO Clusters",
+        "Official Findings and Evidence Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_cla_d9f9be_ufo_reverse_engineer_acbee4",
+      "title": "Have Governments Reverse Engineered UFO Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reverse Engineering Allegation Pattern",
+        "Interpretations of Missing Evidence",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3",
+      "title": "Foreign surveillance",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "solar_system",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "UFO Interpretations Near Nuclear Facilities",
+        "Cold War Reconnaissance Technology Types",
+        "Analysis of Nuclear Site Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_a12_oxcart_technolog_08b40f",
+      "title": "The Spy Plane That Looked Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "A 12 OXCART Development Pipeline",
+        "A 12 OXCART Misidentification Factors",
+        "A 12 OXCART Technical Specifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_cold_war_satellite_s_66521d",
+      "title": "How Secret Satellites Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Cold War Space Surveillance",
+        "Satellite Visual Effects vs. Aircraft",
+        "Cold War Satellite Mission Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_malmstrom_foreign_su_56d245",
+      "title": "Did Malmstrom Involve Foreign Surveillance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "March 1967 Malmstrom AFB Time line",
+        "Malmstrom Incident Interpretations",
+        "Malmstrom Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_reconnaissance_ballo_9a4cb5",
+      "title": "Why Balloons Were Mistaken for UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Balloon Surveillance History",
+        "Factors Driving Balloon Misidentification",
+        "Specific Balloon Intelligence Programs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_soviet_surveillance_be52e7",
+      "title": "Why Nuclear Sites Feared Soviet Surveillance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Nuclear Intelligence Methods",
+        "Interpretations of Nuclear Site Sightings",
+        "Soviet Intelligence Collection Capabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3_u2_reconnaissance_si_c083b2",
+      "title": "How U 2 Flights Created UFO Mysteries",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Program Secrecy Lifecycle",
+        "U 2 Sightings Interpretation Gap",
+        "Cold War Aerial Identification Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04",
+      "title": "Hanford atomic site",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hanford Site Nuclear Time line",
+        "Interpretations of Hanford Sightings",
+        "Evidence Constraints at Hanford Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_1945_interce_4b853a",
+      "title": "What Happened During Hanford's 1945 Interception?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1945 Hanford Interception",
+        "Evidence Quality of Hanford Claims",
+        "Hanford Sighting Visual Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_1952_radar_529617",
+      "title": "Why Hanford's 1952 Radar Case Still Debates Explanations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "F 94 Interceptor Encounter Key Stages",
+        "Hanford Case Interpretation Conflict",
+        "Cold War Radar Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_atomic_compa_29dbb8",
+      "title": "How Hanford Fits The Nuclear UFO Timeline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Hanford Nuclear Narratives",
+        "Hanford vs. Oak Ridge Comparison",
+        "Atomic Era UFO Site Network"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_atomic_symbo_2e169d",
+      "title": "Why Hanford Became An Atomic UFO Landmark",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_petal"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hanford Site Nuclear Development Time line",
+        "Interpretations of Hanford UFO Reports",
+        "Factors Driving Hanford's UFO Symbolism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_records_evid_59ee19",
+      "title": "What Do Hanford's Surviving Records Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hanford UFO Evidence Chain Analysis",
+        "Missing Hanford Records Explanations",
+        "Factors Influencing Hanford Evidence Weight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04_hanford_secrecy_ufo_be239b",
+      "title": "How Hanford Secrecy Changed UFO Interpretations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hanford Secrecy and UFO Interpretation",
+        "Interpretations of Hanford Aerial Sightings",
+        "Factors Shaping Hanford UFO Uncertainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7",
+      "title": "Los Alamos UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Los Alamos UFO Investigation Time line",
+        "Green Fireball Explanatory Theories",
+        "Los Alamos Security Context Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_cold_war_security_co_823a04",
+      "title": "Why UFO Reports Became Cold War Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War UFO Investigation Workflow",
+        "Security Risks vs. Alien Claims",
+        "Los Alamos Security Environment Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_green_fireball_inves_d86260",
+      "title": "Why Los Alamos Investigated Green Fireballs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Green Fireball Investigation Time line",
+        "Los Alamos Scientific Interpretations",
+        "Key Participants in the Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_los_alamos_scientist_88b50d",
+      "title": "How Los Alamos Scientists Studied UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Los Alamos Green Fireball Investigation",
+        "Scientific Explanations for Fireballs",
+        "Los Alamos Research Expertise"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_los_alamos_symbolism_a20e86",
+      "title": "Why Los Alamos Became a UFO Symbol",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Los Alamos Historical Evolution",
+        "Los Alamos Symbolism vs Evidence",
+        "Components of Los Alamos Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_meteor_explanations_1aa66a",
+      "title": "Could Meteors Explain Green Fireballs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Meteoroid Transformation into Fireball",
+        "Los Alamos Green Fireball Interpretations",
+        "Meteor Coloration Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_los_alamos_history_9e8bb7_ufo_records_evidence_68fd81",
+      "title": "What Records Reveal About Los Alamos UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Los Alamos UFO Investigation Chain",
+        "Los Alamos Scientific Interpretations",
+        "Los Alamos Record Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19",
+      "title": "Malmstrom missile",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Time line",
+        "Interpretations of Malmstrom Failures",
+        "Evidence Supporting Malmstrom Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_aaro_nuclear_review_731abd",
+      "title": "What Did the UAP Review Find?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Nuclear UAP Investigation Process",
+        "Nuclear Missile Claims vs. Evidence",
+        "AARO Nuclear Site Review Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_echo_flight_shutdown_3025b9",
+      "title": "What Happened During the Echo Flight Shutdown?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Echo Flight Shutdown Time line 1967",
+        "Echo Flight Cause Interpretations",
+        "Malmstrom Site Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_nuclear_security_sig_428a2a",
+      "title": "Why Malmstrom Mattered for Nuclear Security",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom Missile Outage Time line",
+        "Malmstrom Outage Interpretations",
+        "Minuteman Missile System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_oscar_flight_claim_7fb9c0",
+      "title": "The Oscar Flight UFO Missile Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Oscar Flight Missile Incident Time line",
+        "Oscar Flight Evidence Interpretations",
+        "Oscar Flight Evidence Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_technical_explanatio_e1d8df",
+      "title": "Could Equipment Failures Explain Malmstrom?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Malmstrom Echo Flight Shutdown Key Stages",
+        "Malmstrom Missile Failure Hypotheses",
+        "Malmstrom System Vulnerabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19_witness_testimony_di_e965e5",
+      "title": "Why Do Malmstrom Witnesses Disagree?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Time line",
+        "Malmstrom Missile Failure Interpretations",
+        "Witness Evidence Categories at Malmstrom"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4",
+      "title": "Military reporting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "AARO Military UAP Reporting Workflow",
+        "Project Blue Book vs Modern Reporting",
+        "Nuclear Facility Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_aaro_reporting_proce_53e64d",
+      "title": "How AARO Handles Military UAP Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Assessment Workflow",
+        "Operational vs Historical Reporting Paths",
+        "AARO Data Requirements for Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_dod_uap_coordination_a44dd5",
+      "title": "Why Military UAP Reporting Was Inconsistent",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Coordination and Reporting Workflow",
+        "Fragmented vs. Coordinated Reporting Models",
+        "Do D OIG Coordination Weaknesses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_military_uap_sensor_a8f7dc",
+      "title": "Why Military UAP Reports Lack Answers",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Data Analysis Workflow",
+        "Radar vs. Infrared Evidence Gaps",
+        "Critical Data Points for Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_military_witness_tru_a9074c",
+      "title": "Why Military Witnesses Report UAP Events",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barriers to Military UAP Reporting",
+        "AARO Reporting vs. Historical Stigma",
+        "AARO Trusted Reporting Framework"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_nuclear_uap_records_a0f9ca",
+      "title": "What Nuclear Site UAP Records Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Site UAP Record Lifecycle",
+        "Comparing Witness vs System Records",
+        "Nuclear Site Record Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_military_reporting_7c68b4_ufo_reporting_histor_7def51",
+      "title": "How UFO Reporting Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of US Military UFO Reporting",
+        "Project Blue Book vs. Modern UAP Systems",
+        "Modern UAP Data Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5",
+      "title": "Minuteman missile system",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Minuteman ICBM Development Time line",
+        "Malmstrom 1967 Incident Interpretations",
+        "Minuteman System Technical Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_malmstrom_missile_fi_eaa2f3",
+      "title": "Inside Malmstrom's Minuteman Missile Fields",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom Missile Complex Development",
+        "1967 Malmstrom Missile Failures Interpretations",
+        "Malmstrom Missile Field Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_minuteman_deployment_3f9d35",
+      "title": "How Minuteman Changed Nuclear Deterrence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minuteman Missile Deployment Evolution",
+        "Minuteman vs. Earlier ICBM Systems",
+        "Minuteman Missile Field Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_minuteman_failures_4cefa8",
+      "title": "When Minuteman Systems Failed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minuteman Missile Reliability Time line",
+        "Malmstrom Outage Interpretations",
+        "Minuteman System Reliability Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_minuteman_generation_6b74a0",
+      "title": "From Minuteman I to Minuteman III",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minuteman ICBM Evolution Time line",
+        "Liquid vs Solid Fuel Systems",
+        "Minuteman III Technical Architecture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_minuteman_launch_con_5bf46f",
+      "title": "How Minuteman Launch Systems Stayed Secure",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "process_steps",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minuteman Missile Launch Safety Layers",
+        "Minuteman Launch Authorization Key Stages",
+        "Minuteman Launch Control Capsule Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_minuteman_history_6ab1a5_sentinel_replacement_58baac",
+      "title": "Why Minuteman III Is Being Replaced",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minuteman III to Sentinel Transition",
+        "Minuteman III vs. Sentinel Capabilities",
+        "Sentinel Program Infrastructure Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08",
+      "title": "Unidentified objects",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base 1967 Time line",
+        "Interpretations of Missile Base Anomalies",
+        "Factors Influencing Missile Base UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_ellsworth_ufo_claims_f53a1d",
+      "title": "The Ellsworth UFO Claims Near Nuclear Missiles",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ellsworth Air Force Base Missile History",
+        "Ellsworth UFO Evidence Comparison",
+        "Ellsworth UFO Report Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_icbm_uap_case_compar_a890d2",
+      "title": "How Missile Base UFO Cases Compare",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Time line",
+        "Interpretations of ICBM Anomalies",
+        "Evidence Quality Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_minot_ufo_reports_8cda6c",
+      "title": "What Happened at Minot's Missile Base?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Minot Air Force Base Cold War Time line",
+        "Interpretations of Minot Missile Malfunctions",
+        "Minot Air Force Base Infrastructure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.444,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_missile_outage_expla_7f8f92",
+      "title": "Why Missile Failures Became UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "radial_cycle"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Outage Key Stages",
+        "Malmstrom Outage Interpretations",
+        "ICBM System Failure Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_nuclear_site_securit_9d4121",
+      "title": "Why UFO Reports Alarmed Nuclear Security Teams",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Nuclear Facility Security Layers",
+        "Malmstrom Missile Incident Interpretations",
+        "UAP Investigation Evolution Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_base_objects_380c08_vandenberg_missile_u_b47f3a",
+      "title": "Vandenberg Missile Tests and UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "converging_cycle"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Vandenberg Missile Test Key Stages",
+        "Vandenberg Case Interpretations",
+        "Vandenberg Site Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7",
+      "title": "Nuclear missile",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base 1967 Time line",
+        "Malmstrom Missile Failure Interpretations",
+        "Nuclear Missile System Vulnerabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_electromagnetic_miss_2ccd4a",
+      "title": "Could electrical effects disrupt missiles?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Missile Electronics Failure Pathways",
+        "Malmstrom 1967 Failure Interpretations",
+        "Missile Electromagnetic Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_icbm_reliability_sec_bbf8e2",
+      "title": "Why reliable missiles still experience failures",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "cycle_process"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Hidden Dependencies of ICBM Systems",
+        "Malmstrom AFB 1967 Interpretations",
+        "Nuclear Security Reliability Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_minot_facility_repor_efa5ec",
+      "title": "What happened at Minot missile facilities?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minot Missile Base Historical Time line",
+        "Minot Missile Interference Interpretations",
+        "Evidence Types in Minot Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_missile_outage_recor_f714c2",
+      "title": "How records reveal missile failures",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Outage Key Stages",
+        "Malmstrom Outage Evidence Comparison",
+        "Malmstrom Record Layers and Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_sac_outage_responses_c80922",
+      "title": "How commanders responded to missile outages",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "SAC Missile Outage Recovery Protocol",
+        "Malmstrom 1967 Outage Interpretations",
+        "SAC Nuclear Readiness Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_missile_failures_c9c3b7_vandenberg_test_clai_f45442",
+      "title": "Did Vandenberg face unexplained missile interference?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Vandenberg Atlas Missile Test Key Stages",
+        "Vandenberg Interference Interpretations",
+        "Vandenberg Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334",
+      "title": "Modern UAP national",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Modern Investigation Workflow",
+        "UAP National Security Risk Factors",
+        "Commonly Identified UAP Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_aaro_unresolved_case_7f814d",
+      "title": "What AARO Reveals About Unresolved UAP Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO UAP Investigation Workflow",
+        "Resolved vs Unresolved UAP Cases",
+        "Factors Limiting UAP Conclusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_foreign_technology_r_ee6a52",
+      "title": "Could UAP Reports Reveal Foreign Technology",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Attribution Analysis Workflow",
+        "UAP Risk Assessment Models",
+        "Defense Priorities for Airspace Awareness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_military_drone_intru_2f0a8c",
+      "title": "Why Drones Near Bases Create UAP Concerns",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Drone Attribution Investigation Workflow",
+        "Drone Security Risk Comparison",
+        "New Jersey Drone Sighting Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_navy_uap_encounters_01c976",
+      "title": "Why Navy UAP Encounters Remain Debated",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Navy UAP Records",
+        "Interpretations of the Go Fast Video",
+        "Military Sensor Data Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_nuclear_uap_assessme_c41cac",
+      "title": "What UAP Reviews Say About Nuclear Sites",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Nuclear Site UAP Assessment Workflow",
+        "AARO Historical Record Findings",
+        "Nuclear Site Security Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334_satellite_uap_explan_95a569",
+      "title": "How Satellites Can Explain Some UAP Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Satellite Flare Identification Process",
+        "Satellite vs. Aircraft Characteristics",
+        "Data Requirements for UAP Resolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb",
+      "title": "Nuclear site drone",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Drone Threat Evolution at Zaporizhzhia",
+        "Nuclear Site Drone Risk Categories",
+        "Drone vs. UFO Security Contexts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_counter_drone_nuclea_00c593",
+      "title": "How Nuclear Sites Defend Against Drones",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "cycle_exploded"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Nuclear Site Counter Drone Workflow",
+        "Soft Kill vs Hard Kill Countermeasures",
+        "Multi Sensor Detection Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_drone_reconnaissance_042998",
+      "title": "What Drones Can See Around Nuclear Sites",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NNSA Counter UAS Response Workflow",
+        "Drone Reconnaissance vs Physical Intrusion",
+        "Nuclear Facility Defense Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_nuclear_plant_sighti_8786ae",
+      "title": "Why Nuclear Plants Worry About Drones",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Drone Detection Workflow",
+        "Peacetime vs. Wartime Drone Risks",
+        "Nuclear Drone Security Challenges"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_ufo_drone_comparison_13944a",
+      "title": "How Drones Changed Nuclear UFO Debates",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Cold War UFOs vs Modern Drones",
+        "Nuclear Site Security Risks",
+        "Nuclear Site Incident Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_us_nuclear_drone_rep_f2a601",
+      "title": "Why US Nuclear Sites Track More Drones",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cycle_infinity"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "2024 Nuclear Drone Reporting Time line",
+        "Drone Activity Intent Interpretations",
+        "Multi Sensor Drone Detection Systems"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_zaporizhzhia_drone_r_40177b",
+      "title": "How Zaporizhzhia Drones Changed Nuclear Risks",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Zaporizhzhia Nuclear Plant Drone Incident Time line",
+        "Drone Risks to Nuclear Safety Systems",
+        "Drone Intent vs. Safety Impact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc",
+      "title": "Nuclear facility UFO",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Factors Driving Nuclear Site UFO Reports",
+        "Debated Interpretations of Malmstrom Reports",
+        "Official Investigation Findings on UAPs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_cold_war_missile_rec_5a2c9f",
+      "title": "What Missile Base Records Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War UAP Reporting Pipeline",
+        "Malmstrom and Vandenberg Case Claims",
+        "Evidence Gaps in Missile Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_green_fireball_repor_34581a",
+      "title": "Why Green Fireballs Alarmed Atomic Researchers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Project Twinkle Investigation Time line",
+        "Green Fireball Explanatory Hypotheses",
+        "Key Characteristics of Reported Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_los_alamos_reports_642429",
+      "title": "Los Alamos Reports Beyond the UFO Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Los Alamos Green Fireball Time line",
+        "Los Alamos Security Interpretations",
+        "Los Alamos Investigation Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_minot_missile_report_d5f50b",
+      "title": "What Happened During Minot Missile Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Minot AFB Sightings",
+        "Interpretations of Missile Failures",
+        "Minot Facility Security Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_nuclear_site_sightin_681047",
+      "title": "Why Nuclear Sites Attract UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "UAP Reporting at Nuclear Sites",
+        "Nuclear Site Sighting Explanations",
+        "Evidence Limits in UAP Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc_vandenberg_ufo_repor_4a37e1",
+      "title": "Vandenberg Missile Reports and Missing Answers",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1964 Atlas Missile Test Key Stages",
+        "Vandenberg Evidence Interpretations",
+        "Vandenberg Testing Environment Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9",
+      "title": "Nuclear weapons",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Monitoring Theory Interpretations",
+        "Malmstrom Air Force Base Case",
+        "Nuclear Site Security Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_classified_technolog_0d6fe3",
+      "title": "Could Hidden Technology Explain Nuclear UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Classified Reconnaissance Aircraft",
+        "UAP Interpretation Mechanisms Near Nuclear Sites",
+        "Factors Driving Nuclear Site Confusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_cold_war_reconnaissa_88a363",
+      "title": "Were Nuclear UFOs Cold War Surveillance?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cold War Reconnaissance Methods",
+        "Nuclear Site Sighting Interpretations",
+        "UAP Investigation Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_hanford_ufo_reports_a94fe8",
+      "title": "What Happened Around Hanford's UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hanford Nuclear Production Time line",
+        "Interpretations of Hanford Aerial Sightings",
+        "Hanford Site Security Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_nuclear_claims_evide_21d895",
+      "title": "Do Nuclear UFO Claims Meet Evidence Standards?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Nuclear Monitoring Evidence Standards",
+        "Observation vs. Monitoring Claims",
+        "Competing Explanations for Nuclear Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_nuclear_sensor_limit_e301a9",
+      "title": "Why Nuclear Site Sensors Still Miss Answers",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Nuclear Facility Surveillance Layers",
+        "Malmstrom Air Force Base Interpretations",
+        "Data Gaps in UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9_nuclear_test_sightin_4b76c8",
+      "title": "Did Nuclear Tests Attract Unknown Observers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Nuclear Test Site Narratives",
+        "Interpretations of Nuclear Site Sightings",
+        "Factors Influencing Test Site Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6",
+      "title": "Nuclear weapons security",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "myth_facts",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Malmstrom Missile Base Interpretations",
+        "Nuclear Site Security Risks",
+        "AARO Nuclear Site Investigation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_ellsworth_ufo_claims_f53a1d",
+      "title": "What Happened at Ellsworth Missile Base?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ellsworth Missile Base Cold War History",
+        "Ellsworth UFO Evidence Interpretations",
+        "Nuclear Security Risk Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_minot_ufo_reports_8cda6c",
+      "title": "Minot's UFO Reports and Missile Security",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Minot AFB UFO Cases",
+        "Potential Explanations for Minot Sightings",
+        "Nuclear Security Lessons from Minot"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_nuclear_drone_threat_dd9fcb",
+      "title": "How Drones Challenge Nuclear Site Security",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Facility Counter Drone Workflow",
+        "Drone Detection Sensor Trade offs",
+        "Nuclear Facility Defense Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_nuclear_surveillance_9c6aba",
+      "title": "Could Unknown Aircraft Spy on Nuclear Sites?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Site Aerial Intelligence Cycle",
+        "Nuclear Security Risk Assessment Models",
+        "Nuclear Facility Vulnerability Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_nuclear_system_resil_30dcd1",
+      "title": "When Nuclear Systems Fail Without Warning",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "prism",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in Nuclear Command Failures",
+        "Defense in Depth for NC 3 Systems",
+        "Internal vs External Security Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_security_con_e01bb6_uap_reporting_gaps_171a41",
+      "title": "Why Missing Data Complicates Nuclear Security",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UAP Data Collection",
+        "Nuclear Security Risk Trade offs",
+        "Required Data for Nuclear Security"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41",
+      "title": "Nuclear Sites",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Nuclear UFO Cases",
+        "Interpretations of Nuclear Site Anomalies",
+        "Factors Shaping Nuclear UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_hanford_ufo_reports_a94fe8",
+      "title": "Why Hanford Entered UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hanford Site Nuclear Production Time line",
+        "Interpreting Hanford Aerial Activity",
+        "Factors Shaping Hanford UFO History"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_los_alamos_sightings_8abe09",
+      "title": "How Los Alamos Shaped Early UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Factors Linking Los Alamos to UFOs",
+        "Historical Record vs. UFO Speculation",
+        "Evolution of Los Alamos UFO Lore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_minot_1968_case_6a5831",
+      "title": "Inside the Minot Nuclear UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Minot 1968 Case",
+        "Interpretations of the Minot Evidence",
+        "Evidence Layers of the Minot Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_nuclear_security_ufo_825266",
+      "title": "When UFO Reports Reached Nuclear Security",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Nuclear Site UFO Investigations",
+        "Interpretations of Malmstrom Base Anomalies",
+        "Security Lessons from Nuclear UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_nuclear_ufo_records_f27be1",
+      "title": "How Nuclear UFO Records Were Investigated",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "US Air Force Investigation Workflow",
+        "Malmstrom Missile Incident Interpretations",
+        "Nuclear Base Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_nuclear_ufo_timeline_574d41_secret_technology_uf_2298d7",
+      "title": "Did Secret Aircraft Explain Nuclear UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Classified Reconnaissance Aircraft",
+        "UFO Sighting Interpretation Factors",
+        "The Mechanism of UFO Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+      "title": "Project Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Time line",
+        "Nuclear Facility UFO Interpretations",
+        "Project Blue Book Investigation Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.571,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_methods_be2c93",
+      "title": "How Project Blue Book Investigated UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Blue Book Classification Interpretations",
+        "Common Explanations in Blue Book Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_unknown_ca_e03799",
+      "title": "Why Some Blue Book Cases Stayed Unsolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Interpretations of Blue Book Unknowns",
+        "Evidence Gaps in Historical Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_condon_report_impact_e32cc0",
+      "title": "Why the Condon Report Ended Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Closure Time line",
+        "Condon Report Interpretations",
+        "Condon Report Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_hynek_ufo_views_1811f0",
+      "title": "How Hynek's UFO Views Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "J. Allen Hynek's Scientific Evolution",
+        "Project Blue Book Interpretations",
+        "Key Cases Influencing Hynek"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_project_sign_origins_b72c79",
+      "title": "How Project Sign Began UFO Investigations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "funnel_layers"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Project Sign Cold War Origins",
+        "Project Sign Intelligence Questions",
+        "Project Sign Investigation Methods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_robertson_panel_trus_6f15c6",
+      "title": "Why the Robertson Panel Changed UFO Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Robertson Panel Operational Workflow",
+        "Interpretations of Robertson Panel Secrecy",
+        "Robertson Panel Security Concerns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970",
+      "title": "Robert Hastings nuclear",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Robert Hastings Research Methodology",
+        "Malmstrom Missile Incident Interpretations",
+        "Evidence Pillars in Nuclear UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_2010_press_event_a63b59",
+      "title": "When Nuclear UFO Claims Reached National Media",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "2010 UFOs and Nukes Press Conference Time line",
+        "Interpretations of Nuclear Site UFO Reports",
+        "Key Elements of the 2010 Press Conference"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_declassified_ufo_rec_ea7bbf",
+      "title": "What Government Records Reveal About UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Record Lifecycle",
+        "Archival Evidence Limits at Malmstrom",
+        "Hastings' Nuclear Site Record Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_hastings_witness_arc_5489bd",
+      "title": "Inside Hastings' Military UFO Witness Archive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hastings Archive Collection Process",
+        "Evaluating Military Witness Testimony",
+        "Witness Profiles in the Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_nuclear_site_pattern_c571f9",
+      "title": "Do Nuclear UFO Reports Share A Pattern?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Key Stages",
+        "Nuclear Site Observation Interpretations",
+        "Nuclear Site Report Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_ufos_and_nukes_argum_66d7b0",
+      "title": "The Main Claims Behind UFOs And Nukes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base Case Key Stages",
+        "Interpretations of Nuclear Site Sightings",
+        "Evidence Types in UFOs & Nukes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970_witness_credibility_d792aa",
+      "title": "Can Military Witnesses Prove UFO Claims?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Levels of UAP Evidence Quality",
+        "Military Witness Credibility Debate",
+        "Missing Evidence for Nuclear Sites"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1",
+      "title": "Robert Salas",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Time line",
+        "Interpretations of Malmstrom Failures",
+        "Salas Testimony Significance Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_aaro_salas_review_eca51b",
+      "title": "What Official Reviews Say About Salas",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Time line",
+        "Malmstrom Failure Interpretations",
+        "AARO Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_malmstrom_guard_repo_7cf1da",
+      "title": "The Guards Who Reported Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Key Stages",
+        "Interpretations of Malmstrom Anomalies",
+        "Evidence Types in Malmstrom Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_military_witness_cre_632864",
+      "title": "Why Military Witnesses Matter in UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base 1967 Key Stages",
+        "Credibility vs. Proof in UFO Cases",
+        "Strengths of Military Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_nuclear_ufo_reports_1aab6d",
+      "title": "How Salas Fits Other Nuclear UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Incident Time line",
+        "Interpretations of Nuclear UFO Reports",
+        "Categories of Nuclear UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_salas_testimony_time_3b88e0",
+      "title": "How Robert Salas' Missile Story Began",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom Air Force Base 1967 Time line",
+        "Interpretations of Malmstrom Missile Failures",
+        "Components of the Salas Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_testimo_2254d1_ufo_missile_failure_49af8a",
+      "title": "Did UFOs Cause the Missile Failures?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Time line",
+        "Interpretations of Missile Failures",
+        "Evidence Categories in Salas Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c",
+      "title": "Strategic Air Command",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Minot Air Force Base B 52 Time line",
+        "Interpretations of SAC Missile Site Reports",
+        "Strategic Air Command Operational Context"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.091,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_blue_book_sac_record_a1ae39",
+      "title": "Inside the Air Force SAC UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "SAC Report Investigation Workflow",
+        "Interpretations of Unidentified SAC Cases",
+        "Project Blue Book Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_malmstrom_claims_dis_769f9e",
+      "title": "Did UFOs Affect Malmstrom Missiles?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Malmstrom AFB Missile Shutdown Time line",
+        "Malmstrom Missile Failure Interpretations",
+        "Evidence Hierarchy of Malmstrom Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_minot_b52_encounter_424ca1",
+      "title": "What Happened During the Minot B 52 Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "October 24, 1968 Minot Time line",
+        "Competing Explanations for Minot",
+        "Evidence Layers of Minot Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_sac_cold_war_secrecy_2a31eb",
+      "title": "How Secrecy Shaped SAC UFO Mysteries",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SAC UFO Investigation Workflow",
+        "Interpretations of Missing Records",
+        "Factors Shaping SAC UFO Mysteries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_sac_nuclear_security_86ae43",
+      "title": "Why SAC Bases Drew UFO Attention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Minot Air Force Base 1968 Time line",
+        "SAC Security vs. UFO Claims",
+        "Strategic Air Command Assets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c_sac_witness_credibil_088fbc",
+      "title": "Can Military Witnesses Solve UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Minot Air Force Base Investigation Flow",
+        "Witness Credibility vs. Technical Proof",
+        "SAC Evidence Chain Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632",
+      "title": "Sensor limitations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Multi Sensor Data Collection Workflow",
+        "Infrared Video Interpretation Challenges",
+        "Military Sensor Limitations in UAP Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_aaro_missing_data_53dfa2",
+      "title": "Why AARO Cases Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO UAP Evidence Evaluation Process",
+        "Resolved vs Unresolved UAP Cases",
+        "Common Missing Evidence Problems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_flir_sensor_limits_a63fe1",
+      "title": "Why Infrared UAP Videos Mislead Investigators",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FLIR Sensor Data Processing Chain",
+        "Interpretation of the Go Fast Video",
+        "Missing Measurements for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_gofast_case_speed_68b1fe",
+      "title": "What the Go Fast Video Really Shows",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Go Fast Video Interpretation Analysis",
+        "Data Requirements for Speed Verification",
+        "AARO Go Fast Case Resolution Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_malmstrom_sensor_gap_6140e4",
+      "title": "Why Malmstrom Evidence Remains Incomplete",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "March 1967 Malmstrom AFB Missile Time line",
+        "Malmstrom Evidence Gap Analysis",
+        "Required Sensor Data for UAP Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_multi_sensor_trackin_5597a2",
+      "title": "How Better Sensors Could Solve UAP Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Multi Sensor Data Fusion Workflow",
+        "Single vs Multi Sensor Limitations",
+        "Galileo Project Sensor Suite"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_sensor_limitations_bf7632_witness_sensor_limit_4d87fd",
+      "title": "Why Witnesses Need Sensor Support",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Investigation Measurement Chain",
+        "Human Perception vs Sensor Data",
+        "Multi Sensor UAP Investigation Tools"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce",
+      "title": "UAP versus drone",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Nuclear Site Drone Identification Process",
+        "UAP vs. Drone Technical Distinctions",
+        "Drone Mimicry Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_aaro_drone_identific_32602e",
+      "title": "How AARO Separates Drones From UAP",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Attribution Workflow",
+        "Resolved vs Unresolved UAP Cases",
+        "AARO Known Source Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_commercial_drone_sec_ead5a4",
+      "title": "Why Drones Near Nuclear Sites Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Nuclear Drone Security Workflow",
+        "Drone vs. UAP Interpretation",
+        "Nuclear Facility Drone Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_drone_uap_behavior_9f1228",
+      "title": "How Drones Can Look Like Unknown Craft",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "earth_core"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Drone Features Mimicking UAP Observations",
+        "Drone vs. UAP Interpretation Logic",
+        "Factors Influencing Sensor Misinterpretation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_faa_nuclear_drone_ru_e239ee",
+      "title": "Why Drone Flights Near Nuclear Sites Are Restricted",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Nuclear Drone Reporting Workflow",
+        "Drone Policy vs UAP Inquiry",
+        "Nuclear Airspace Defense Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_historic_nuclear_uap_8a460a",
+      "title": "Why Older Nuclear UAP Cases Differ From Drones",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Nuclear UAP Cases",
+        "Historical vs Modern UAP Contexts",
+        "Factors Influencing Historical UAP Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce_nuclear_plant_drone_6762e8",
+      "title": "What Happens After Nuclear Plant Drone Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NRC Drone Sighting Response Pathway",
+        "Nuclear Plant Drone Misconceptions",
+        "Factors Complicating Drone Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8",
+      "title": "UFO case investigation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Case File Construction Workflow",
+        "Nuclear Site Sighting Interpretations",
+        "Data Limitations in UAP Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_aaro_review_findings_0ebc21",
+      "title": "What AARO Found About UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Historical Review Scope",
+        "AARO vs. Community Interpretations",
+        "AARO Investigation Data Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_blue_book_classifica_11b1db",
+      "title": "How Blue Book Investigated UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "The Depth of Blue Book Classifications",
+        "Common Explanations for Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_future_uap_sensors_822e20",
+      "title": "How Future UFO Detection May Improve",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Automated UAP Monitoring Pipeline",
+        "Multi Sensor Evidence Chain Components",
+        "Galileo Project Sensor Package"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_malmstrom_evidence_r_149cef",
+      "title": "What Happened at Malmstrom Missile Base?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "March 1967 Malmstrom Missile Time line",
+        "Malmstrom Missile Failure Explanations",
+        "Evidence Hierarchy for Malmstrom Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_nuclear_site_investi_52907f",
+      "title": "How Nuclear Site UFO Reports Are Checked",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Nuclear Site Investigation Workflow",
+        "Technical vs. External Explanations",
+        "Nuclear Site Investigation Challenges"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8_uap_sensor_data_limi_298445",
+      "title": "Why UAP Evidence Often Falls Short",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Sensor Data Processing Pipeline",
+        "Limitations of Current UAP Evidence",
+        "Multimodal UAP Observation Sensors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc",
+      "title": "UFO myths",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Myth",
+        "Nuclear Weapons and UFO Narratives",
+        "Core Elements of UFO Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_alien_abduction_folk_cbbba9",
+      "title": "Why Alien Abduction Stories Spread Worldwide",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Abduction Narratives",
+        "Interpretations of Sleep Paralysis",
+        "Recurring Motifs in Abduction Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_close_encounters_con_453bc4",
+      "title": "When UFOs Became Stories Of Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Cinema Tropes",
+        "Close Encounters vs. Cold War Cinema",
+        "Spielberg's Communication Framework"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_kenneth_arnold_sight_b5d3b9",
+      "title": "How One Sighting Created Flying Saucers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Mount Rainier Sighting",
+        "Interpretations of the Mount Rainier Sighting",
+        "Elements of the Flying Saucer Mythos"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_roswell_myth_9e5fa1",
+      "title": "Why Roswell Became UFO's Biggest Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Crash",
+        "Competing Interpretations of Roswell Debris",
+        "Cultural Impact of Roswell Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_uap_language_shift_d3779c",
+      "title": "Why UFO Became UAP In Public Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UAP Investigation Frameworks",
+        "UFO vs UAP Terminology Comparison",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_pop_culture_5f73dc_x_files_ufo_culture_4fd01c",
+      "title": "How The X Files Changed UFO Beliefs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The X Files Investigation Narrative",
+        "Mulder vs Scully Analytical Approaches",
+        "Institutional Secrecy in The X Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c",
+      "title": "Government UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "U.S. UFO Investigation Evolution",
+        "AARO Historical Record Findings",
+        "UAP Transparency Drivers and Goals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_aaro_review_findings_0ebc21",
+      "title": "What AARO's Review Found About UAP Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Historical Record Review Time line",
+        "AARO Findings vs. Public Claims",
+        "AARO Investigation Scope Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_blue_book_transition_899053",
+      "title": "How UFO Reviews Changed After Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of UAP Investigation Frameworks",
+        "Blue Book vs. Modern UAP Systems",
+        "AARO Historical Record Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_nuclear_uap_reportin_aef595",
+      "title": "Why Nuclear Sites Changed UAP Reporting",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Nuclear Site Security Characteristics",
+        "Malmstrom Air Force Base Interpretations",
+        "Military Threat Assessment Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_uap_archive_question_2fdb40",
+      "title": "Can UAP Archives Reveal The Full Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NARA UAP Records Collection Process",
+        "AARO Historical Review Findings",
+        "Factors Limiting Archive Completeness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_uap_data_systems_df1e48",
+      "title": "How Modern UAP Reports Get Reviewed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Evidence Pipeline",
+        "Historical vs Modern UAP Review",
+        "UAP Sensor Data Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_ufo_transparency_a78c3c_uap_records_legislat_692a91",
+      "title": "Why Congress Wants More UAP Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Records Management Pathway",
+        "Transparency vs. National Security",
+        "UAP Records Collection Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87",
+      "title": "Military witness",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Evolution in UFO Testimony",
+        "Malmstrom Missile Case Interpretations",
+        "Evidence Strengthening Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_blue_book_limits_d8e67a",
+      "title": "What Blue Book Could Not Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Witness Credibility vs. Evidence Quality",
+        "Project Blue Book Investigation Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.667,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_cause_attribution_de_207b40",
+      "title": "Seeing Something Strange Does Not Prove Its Cause",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Investigation Evidence Workflow",
+        "Observation vs Attribution Reliability",
+        "Unresolved Case Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_delayed_witness_memo_28144a",
+      "title": "How Time Changes Nuclear UFO Testimony",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Degradation in Delayed Testimony",
+        "Malmstrom AFB Missile Incident Analysis",
+        "Layers of Nuclear UFO Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_military_training_li_ebedf7",
+      "title": "Why Military Training Does Not Remove UFO Errors",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Military Observer Training Advantages",
+        "Expert Perception vs. Human Error",
+        "Observation vs. Explanation Analysis"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_secrecy_delayed_disc_eb764e",
+      "title": "Why Some Military UFO Stories Emerged Later",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Archive Progression",
+        "Malmstrom Air Force Base Interpretations",
+        "Barriers to Military UFO Disclosure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFOs_and_nuclear_wea_3f6b18_witness_reliability_cb0d87_testimony_evidence_r_e33066",
+      "title": "Can Records Confirm Military UFO Testimony?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Agreement for UAP Evidence",
+        "Malmstrom Missile Shutdown Evidence",
+        "Types of Military Supporting Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}
