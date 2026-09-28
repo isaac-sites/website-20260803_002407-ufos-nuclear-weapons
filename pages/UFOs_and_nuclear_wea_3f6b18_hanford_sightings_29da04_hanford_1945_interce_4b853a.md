@@ -856,7 +856,7 @@ The case remains historically interesting because it sits at the intersection of
 17.<a id="endnote-17"></a>
    Source: uforeleases.com  
    Title: Unidentified Incidents — The First 100 U.S  
-   Link:<a href="https://uforeleases.com/topics/navy/38_143685_box7_incident_summaries" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/navy/38_143685_box7_incident_summaries</a>  
+   Link:<a href="https://uforeleases.com/topics/navy/38_143685_box7_incident_summaries_1-100" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/navy/38_143685_box7_incident_summaries_1-100</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Incident Summaries: A Foundational Record, 1947–1948 | UFO ReleasesMay 8, 2026 — UNIDENTIFIED INCIDENTS — THE FIRST 100 U.S. NAVY IN...</p></details>
    Published: May 8, 2026  
 
