@@ -3277,7 +3277,15 @@
 
       var payload = {};
       try {
-        payload = JSON.parse(String(dataNode.textContent || "{}"));
+        var payloadSrc = dataNode.getAttribute("data-payload-src");
+        if (payloadSrc) {
+          var payloadXhr = new XMLHttpRequest();
+          payloadXhr.open("GET", payloadSrc, false);
+          payloadXhr.send(null);
+          payload = JSON.parse(payloadXhr.responseText);
+        } else {
+          payload = JSON.parse(String(dataNode.textContent || "{}"));
+        }
       } catch (err) {
         payload = {};
       }
@@ -7575,7 +7583,15 @@
 
       var payload = {};
       try {
-        payload = JSON.parse(String(dataNode.textContent || "{}"));
+        var payloadSrc = dataNode.getAttribute("data-payload-src");
+        if (payloadSrc) {
+          var payloadXhr = new XMLHttpRequest();
+          payloadXhr.open("GET", payloadSrc, false);
+          payloadXhr.send(null);
+          payload = JSON.parse(payloadXhr.responseText);
+        } else {
+          payload = JSON.parse(String(dataNode.textContent || "{}"));
+        }
       } catch (err) {
         payload = {};
       }
