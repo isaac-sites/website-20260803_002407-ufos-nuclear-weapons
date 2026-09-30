@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-modern-uap/
 description: Focused pages that expand on Modern UAP national.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_modern_uap_security_443334
 parent_title: Modern UAP national | UFOs and nuclear weapons

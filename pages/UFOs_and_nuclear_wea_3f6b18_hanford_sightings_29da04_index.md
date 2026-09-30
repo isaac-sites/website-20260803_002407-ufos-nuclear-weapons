@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-hanford/
 description: Focused pages that expand on Hanford atomic site.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_hanford_sightings_29da04
 parent_title: Hanford atomic site | UFOs and nuclear weapons

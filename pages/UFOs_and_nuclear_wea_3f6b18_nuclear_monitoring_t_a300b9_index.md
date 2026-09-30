@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-nuclear/
 description: Focused pages that expand on Nuclear weapons.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_nuclear_monitoring_t_a300b9
 parent_title: Nuclear weapons | UFOs and nuclear weapons

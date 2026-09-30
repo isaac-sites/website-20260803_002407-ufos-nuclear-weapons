@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-aaro/
 description: Focused pages that expand on AARO UAP historical.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_aaro_reviews_dd840c
 parent_title: AARO UAP historical | UFOs and nuclear weapons

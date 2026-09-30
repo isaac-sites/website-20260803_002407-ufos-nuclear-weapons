@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-nuclear/
 description: Focused pages that expand on Nuclear facility UFO.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_nuclear_facility_rep_184fdc
 parent_title: Nuclear facility UFO | UFOs and nuclear weapons
