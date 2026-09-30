@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-ufo/
 description: Focused pages that expand on UFO case investigation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_ufo_investigation_me_0a3db8
 parent_title: UFO case investigation | UFOs and nuclear weapons

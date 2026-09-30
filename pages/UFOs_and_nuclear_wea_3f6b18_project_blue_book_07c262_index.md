@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-project/
 description: Focused pages that expand on Project Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262
 parent_title: Project Blue Book | UFOs and nuclear weapons

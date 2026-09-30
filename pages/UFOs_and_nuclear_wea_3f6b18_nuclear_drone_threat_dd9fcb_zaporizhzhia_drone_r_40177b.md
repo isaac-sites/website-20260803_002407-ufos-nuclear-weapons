@@ -285,6 +285,7 @@ prev_link:
   short_title: US Drone Reports
   heading_title: Why US Nuclear Sites Track More Drones
 date: '2026-08-03 00:16:19 '
+last_modified_at: '2026-08-03 00:16:19 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_zaporizhzhia_drone_r_40177b-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_nuclear_drone_threat_dd9fcb_zaporizhzhia_drone_r_40177b-Illustration-1.webp

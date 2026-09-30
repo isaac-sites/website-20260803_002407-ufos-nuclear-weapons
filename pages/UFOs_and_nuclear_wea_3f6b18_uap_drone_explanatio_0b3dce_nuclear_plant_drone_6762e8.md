@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 03:13:54'
+last_modified_at: '2026-08-02 03:13:54'
 parent_title: UAP versus drone | UFOs and nuclear weapons
 parent_permalink: /uap-versus-drone/
 parent_nav_short_title: UAP versus drone

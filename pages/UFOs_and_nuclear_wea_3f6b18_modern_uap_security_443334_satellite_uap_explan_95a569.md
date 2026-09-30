@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 09:17:47'
+last_modified_at: '2026-08-02 09:17:47'
 parent_title: Modern UAP national | UFOs and nuclear weapons
 parent_permalink: /modern-uap-national/
 parent_nav_short_title: Modern UAP national
