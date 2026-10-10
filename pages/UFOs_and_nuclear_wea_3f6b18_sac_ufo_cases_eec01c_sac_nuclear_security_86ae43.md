@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 02:22:07'
+last_modified_at: '2026-08-02 02:22:07'
 parent_title: Strategic Air Command | UFOs and nuclear weapons
 parent_permalink: /strategic-air-command/
 parent_nav_short_title: Strategic Air Command

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-malmstrom/
 description: Focused pages that expand on Malmstrom missile.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_c_c05b19
 parent_title: Malmstrom missile | UFOs and nuclear weapons

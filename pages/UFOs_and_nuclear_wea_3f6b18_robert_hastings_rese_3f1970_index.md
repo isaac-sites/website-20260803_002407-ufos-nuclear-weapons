@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-robert/
 description: Focused pages that expand on Robert Hastings nuclear.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_robert_hastings_rese_3f1970
 parent_title: Robert Hastings nuclear | UFOs and nuclear weapons

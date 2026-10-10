@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 01:03:30'
+last_modified_at: '2026-08-02 01:03:30'
 parent_title: Nuclear facility UFO | Nuclear UFO Files
 parent_permalink: /nuclear-facility-ufo/
 parent_nav_short_title: Nuclear facility UFO

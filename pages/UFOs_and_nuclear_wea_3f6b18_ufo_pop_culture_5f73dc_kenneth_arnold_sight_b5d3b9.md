@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 05:37:20'
+last_modified_at: '2026-08-02 05:37:20'
 parent_title: UFO myths | UFOs and nuclear weapons
 parent_permalink: /ufo-myths/
 parent_nav_short_title: UFO myths

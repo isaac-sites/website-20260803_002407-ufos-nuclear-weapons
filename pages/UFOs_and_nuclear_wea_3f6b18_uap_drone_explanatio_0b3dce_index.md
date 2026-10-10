@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-uap-drone/
 description: Focused pages that expand on UAP versus drone.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_uap_drone_explanatio_0b3dce
 parent_title: UAP versus drone | UFOs and nuclear weapons

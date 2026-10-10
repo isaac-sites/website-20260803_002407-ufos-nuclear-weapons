@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 05:09:06'
+last_modified_at: '2026-08-02 05:09:06'
 parent_title: Declassified UFO | UFOs and nuclear weapons
 parent_permalink: /declassified-ufo/
 parent_nav_short_title: Declassified UFO

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-cold-war/
 description: Focused pages that expand on Cold War technology.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_cold_war_confusion_9e1cf4
 parent_title: Cold War technology | UFOs and nuclear weapons

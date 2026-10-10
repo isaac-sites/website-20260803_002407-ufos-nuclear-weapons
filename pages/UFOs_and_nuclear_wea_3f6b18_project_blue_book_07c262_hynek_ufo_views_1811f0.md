@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 16:30:07'
+last_modified_at: '2026-08-01 16:30:07'
 parent_title: Project Blue Book | UFOs and nuclear weapons
 parent_permalink: /project-blue-book/
 parent_nav_short_title: Project Blue Book

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-foreign/
 description: Focused pages that expand on Foreign surveillance.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_foreign_surveillance_61a1e3
 parent_title: Foreign surveillance | UFOs and nuclear weapons

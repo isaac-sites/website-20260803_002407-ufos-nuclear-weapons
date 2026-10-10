@@ -243,6 +243,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 08:04:26'
+last_modified_at: '2026-08-02 08:04:26'
 parent_title: Nuclear UFO Files
 parent_permalink: /ufos-and-nuclear-weapons/
 parent_nav_short_title: Nuclear UFO Files

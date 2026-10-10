@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 15:13:49'
+last_modified_at: '2026-08-01 15:13:49'
 parent_title: Robert Hastings nuclear | UFOs and nuclear weapons
 parent_permalink: /robert-hastings-nuclear/
 parent_nav_short_title: Robert Hastings nuclear

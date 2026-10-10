@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-sac-ufo/
 description: Focused pages that expand on Strategic Air Command.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_sac_ufo_cases_eec01c
 parent_title: Strategic Air Command | UFOs and nuclear weapons

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-evidence/
 description: Focused pages that expand on UFO evidence standards.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_evidence_standards_a40c69
 parent_title: UFO evidence standards | UFOs and nuclear weapons
