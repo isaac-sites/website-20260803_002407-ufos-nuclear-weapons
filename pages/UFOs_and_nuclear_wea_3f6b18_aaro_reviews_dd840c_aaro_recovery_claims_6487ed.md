@@ -881,11 +881,11 @@ For the broader [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | rela
 
 23.<a id="endnote-23"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 24.<a id="endnote-24"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 25.<a id="endnote-25"></a>
    Source: youtube.com  
@@ -894,4 +894,4 @@ For the broader [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | rela
 26.<a id="endnote-26"></a>
    Source: disclosurearchives.com  
    Title: AAR O releases Historical Record Report, Volume I · Disclosure Archives  
-   Link:<a href="https://disclosurearchives.com/events/aaro-historical-record-vol" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/events/aaro-historical-record-vol</a>  
+   Link:https://disclosurearchives.com/events/aaro-historical-record-vol  

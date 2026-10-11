@@ -926,7 +926,7 @@ The most evidence-based assessment is therefore a balanced one: UFO reports at n
 10.<a id="endnote-10"></a>
    Source: nicap.org  
    Title: UF O Report Image Minot Radar/Visual Photo E-M Case Minot, North Dakota  
-   Link:<a href="https://www.nicap.org/reports/681024minot_[hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/681024minot_[hynek</a>  
+   Link:https://www.nicap.org/reports/681024minot_[hynek  
 
 11.<a id="endnote-11"></a>
    Source: defense.gov  
@@ -974,7 +974,7 @@ The most evidence-based assessment is therefore a balanced one: UFO reports at n
 21.<a id="endnote-21"></a>
    Source: ufohastings.com  
    Title: UF Os & Nukes  
-   Link:<a href="https://www.ufohastings.com/articles/the-echo-and-[oscar-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/the-echo-and-[oscar-flight</a>  
+   Link:https://www.ufohastings.com/articles/the-echo-and-[oscar-flight  
 
 22.<a id="endnote-22"></a>
    Source: ufohastings.com  

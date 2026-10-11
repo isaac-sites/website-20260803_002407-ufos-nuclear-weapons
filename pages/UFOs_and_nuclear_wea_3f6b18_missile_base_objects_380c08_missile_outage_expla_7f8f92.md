@@ -378,7 +378,7 @@ The Malmstrom cases gained lasting attention because they combined technical unc
 
 For supporters of the UFO interpretation, the unusual combination of missile failures and reported sightings suggested a pattern. They argued that the incidents were too specific to dismiss as routine equipment problems. Former personnel, including those who later presented their accounts to AARO, have continued to argue that the events deserve further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/114s3ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AARO Receives Presentation on Two UFO Cases from the 1960s, Presented by Key WitnessesFebruary 17, 2023...</span><span class="citation-popover-meta">Published: February 17, 2023</span></span></span>
 
-For sceptics and official investigators, the same circumstances point toward more conventional explanations. Sensitive military systems frequently produce complicated failure investigations, and historical memories can be affected by incomplete information, later discussion, and the difficulty of reconstructing events decades afterward. AARO’s historical review found that many long-running UAP narratives were shaped by repeated claims that were difficult to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
+For sceptics and official investigators, the same circumstances point toward more conventional explanations. Sensitive military systems frequently produce complicated failure investigations, and historical memories can be affected by incomplete information, later discussion, and the difficulty of reconstructing events decades afterward. AARO’s historical review found that many long-running UAP narratives were shaped by repeated claims that were difficult to verify independently.<span class="citation-link-wrap">[UFO Transparency]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
 
 The debate therefore depends less on whether missile outages happened — some clearly did — and more on whether there is evidence that an unidentified object was the cause.
 
@@ -847,12 +847,12 @@ These cases remain important because they show how uncertainty works around nucl
 
 11.<a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 13.<a id="endnote-13"></a>
    Source: decur.org  
