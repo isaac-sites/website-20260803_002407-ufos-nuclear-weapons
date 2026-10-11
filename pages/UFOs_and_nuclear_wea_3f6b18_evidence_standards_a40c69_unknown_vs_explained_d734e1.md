@@ -1026,11 +1026,9 @@ But the classification itself carries a limited meaning. “Unidentified” desc
 
 42.<a id="endnote-42"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 43.<a id="endnote-43"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 44.<a id="endnote-44"></a>
    Source: ufotransparency.com  

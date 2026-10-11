@@ -936,7 +936,6 @@ For many researchers, the enduring importance of these cases lies less in provin
 33.<a id="endnote-33"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 

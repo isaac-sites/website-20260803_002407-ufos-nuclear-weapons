@@ -809,7 +809,6 @@ This distinction explains why Hastings’ research remains influential but conte
 6.<a id="endnote-6"></a>
    Source: ufohastings.com  
    Title: UF Os & Nukes  
-   Link:https://www.ufohastings.com/articles/the-echo-and-[oscar-flight  
 
 7.<a id="endnote-7"></a>
    Source: ufohastings.com  

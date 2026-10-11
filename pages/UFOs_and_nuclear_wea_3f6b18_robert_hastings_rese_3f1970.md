@@ -1035,7 +1035,6 @@ Hastings’ contribution is therefore best understood as a major body of case co
 21.<a id="endnote-21"></a>
    Source: ufohastings.com  
    Title: UF Os & Nukes  
-   Link:https://www.ufohastings.com/articles/the-echo-and-[oscar-flight  
 
 22.<a id="endnote-22"></a>
    Source: ufohastings.com  

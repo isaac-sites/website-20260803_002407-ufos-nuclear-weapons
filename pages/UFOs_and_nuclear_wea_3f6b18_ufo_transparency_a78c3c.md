@@ -1056,11 +1056,9 @@ Government UFO transparency efforts have therefore become a major part of the wi
 
 28.<a id="endnote-28"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 29.<a id="endnote-29"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 30.<a id="endnote-30"></a>
    Source: secretsdeclassified.af.mil  

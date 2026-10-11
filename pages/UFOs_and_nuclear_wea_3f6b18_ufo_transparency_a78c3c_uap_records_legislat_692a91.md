@@ -795,7 +795,6 @@ The remaining dispute is about the balance between access and secrecy. Supporter
 
 3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 13.2024 | National ArchivesFebruary 6, 2024...</p></details>
    Published: February 6, 2024  
 

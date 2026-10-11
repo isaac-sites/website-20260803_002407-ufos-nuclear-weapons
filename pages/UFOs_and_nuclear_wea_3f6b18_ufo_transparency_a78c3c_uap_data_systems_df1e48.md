@@ -918,7 +918,6 @@ The result is a more formal evidence pipeline: reports are gathered across organ
 
 28.<a id="endnote-28"></a>
    Source: alien-contact.me  
-   Link:https://alien-contact.me/resources  
 
 29.<a id="endnote-29"></a>
    Source: newspaceeconomy.ca  

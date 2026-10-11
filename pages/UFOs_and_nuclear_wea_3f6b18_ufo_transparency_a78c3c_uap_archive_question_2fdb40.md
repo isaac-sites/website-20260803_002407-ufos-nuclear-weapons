@@ -808,7 +808,6 @@ Government UFO archive debates remain unresolved because completeness is difficu
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.2024 | National ArchivesMay 9, 2024...</p></details>
    Published: May 9, 2024  
 
@@ -829,7 +828,6 @@ Government UFO archive debates remain unresolved because completeness is difficu
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
