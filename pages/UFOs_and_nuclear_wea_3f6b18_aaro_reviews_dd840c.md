@@ -1084,7 +1084,7 @@ The continuing importance of AARO’s historical work is therefore methodologica
 
 34.<a id="endnote-34"></a>
    Source: alien-contact.me  
-   Link:<a href="https://alien-contact.me/resources" target="_blank" rel="noopener noreferrer nofollow">https://alien-contact.me/resources</a>  
+   Link:https://alien-contact.me/resources  
 
 35.<a id="endnote-35"></a>
    Source: ufotransparency.com  

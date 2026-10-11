@@ -491,7 +491,7 @@ A major dispute within the topic is what “monitoring” would actually mean. T
 
 **Foreign intelligence theory:** A more conventional interpretation is that unidentified objects near strategic facilities could represent reconnaissance by rival states. During the Cold War, both the United States and the Soviet Union invested heavily in intelligence collection, surveillance aircraft, and emerging technologies. An unexplained object near a military site did not necessarily indicate something beyond human capability.
 
-**Secret technology theory:** Another possibility is that some historical UFO reports involved classified aircraft, electronic systems, or tests that were not publicly acknowledged at the time. Secrecy surrounding military technology has historically contributed to confusion about unusual sightings. AARO has noted that some allegations about hidden UAP programmes involved confusion between sensitive national security projects and alleged extraterrestrial technology claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO HRR Vol I, Wikimedia Mirror, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO TransparencyMarch 8, 2024...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+**Secret technology theory:** Another possibility is that some historical UFO reports involved classified aircraft, electronic systems, or tests that were not publicly acknowledged at the time. Secrecy surrounding military technology has historically contributed to confusion about unusual sightings. AARO has noted that some allegations about hidden UAP programmes involved confusion between sensitive national security projects and alleged extraterrestrial technology claims.<span class="citation-link-wrap">[UFO Transparency]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO HRR Vol I, Wikimedia Mirror, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO TransparencyMarch 8, 2024...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 These alternatives matter because nuclear facilities are exactly the type of locations where unusual observations are expected. They are strategically important, heavily guarded, and surrounded by advanced technology.
 
@@ -922,7 +922,7 @@ The enduring value of these cases is therefore not proof of [nuclear surveillanc
 
 9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO HRR Vol I, Wikimedia Mirror, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO TransparencyMarch 8, 2024...</p></details>
    Published: March 8, 2024  
 
@@ -932,7 +932,7 @@ The enduring value of these cases is therefore not proof of [nuclear surveillanc
 
 11.<a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 12.<a id="endnote-12"></a>
    Source: decur.org  

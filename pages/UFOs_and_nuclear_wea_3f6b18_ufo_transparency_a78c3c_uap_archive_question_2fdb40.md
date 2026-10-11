@@ -351,7 +351,7 @@ The modern [transparency]({{ 'transparency/' | relative_url }}) debate has there
 
 Recent efforts have attempted to create a clearer map of government UAP records. The US National Archives and Records Administration (NARA) established an Unidentified Anomalous Phenomena Records Collection under provisions of the 2024 National Defense Authorization Act. The initiative requires federal agencies to identify, organise, review, and prepare relevant records for transfer and public access, creating a more structured approach than relying only on individual Freedom of Information Act requests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
-This approach addresses one of the main criticisms of earlier disclosure efforts: researchers often had to discover records indirectly. A report might exist under a different name, within another agency’s filing system, or as part of a broader defence programme rather than a dedicated [UFO investigation]({{ 'ufo-case-investigation/' | relative_url }}). The new records process attempts to reduce that problem by requiring agencies to identify records using consistent metadata, including details such as document identifiers, dates, classification status, and release decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 26.2024 &#124; National ArchivesMay 9, 2024...</span><span class="citation-popover-meta">Published: May 9, 2024</span></span></span>
+This approach addresses one of the main criticisms of earlier disclosure efforts: researchers often had to discover records indirectly. A report might exist under a different name, within another agency’s filing system, or as part of a broader defence programme rather than a dedicated [UFO investigation]({{ 'ufo-case-investigation/' | relative_url }}). The new records process attempts to reduce that problem by requiring agencies to identify records using consistent metadata, including details such as document identifiers, dates, classification status, and release decisions.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 26.2024 &#124; National ArchivesMay 9, 2024...</span><span class="citation-popover-meta">Published: May 9, 2024</span></span></span>
 
 The All-domain Anomaly Resolution Office (AARO) also conducted a historical review intended to consolidate knowledge of previous government investigations. Its 2024 historical report examined official UAP efforts since 1945, including earlier programmes such as Project Sign, Project Grudge, and Project Blue Book, as well as more recent activities. AARO reported that it found no evidence that any US government investigation or [official review]({{ 'official-review/' | relative_url }}) had confirmed UAP as extraterrestrial technology, and no empirical evidence supporting claims that the government or private companies had reverse-engineered such technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uap-archive.org/uap/records/aaro-historical-record-report-vol1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap-archive.org">[UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap-archive.org</span><span class="citation-popover-snippet">UAP Records ArchiveAARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I &#124; UAP Records ArchiveFebruary 1...</span></span></span>
 
@@ -808,7 +808,7 @@ Government UFO archive debates remain unresolved because completeness is difficu
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.2024 | National ArchivesMay 9, 2024...</p></details>
    Published: May 9, 2024  
 
@@ -829,7 +829,7 @@ Government UFO archive debates remain unresolved because completeness is difficu
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  

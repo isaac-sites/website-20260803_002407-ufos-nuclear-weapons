@@ -1072,7 +1072,7 @@ The unresolved question is therefore not whether there are famous stories of [UF
 
 32.<a id="endnote-32"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 33.<a id="endnote-33"></a>
    Source: secretsdeclassified.af.mil  
