@@ -935,4 +935,3 @@ For claims involving alien technology near nuclear facilities or other sensitive
 
 23.<a id="endnote-23"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  

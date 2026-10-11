@@ -981,4 +981,3 @@ The historical value of these records lies in what they reveal about military de
 
 41.<a id="endnote-41"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  

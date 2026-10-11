@@ -1034,7 +1034,6 @@ The connection between UFOs and nuclear weapons is therefore partly a history of
 
 20.<a id="endnote-20"></a>
    Source: ebsco.com  
-   Link:https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon  
 
 21.<a id="endnote-21"></a>
    Source: thehistoryreader.com  

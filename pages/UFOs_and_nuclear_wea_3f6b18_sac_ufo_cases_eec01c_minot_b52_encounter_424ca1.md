@@ -805,7 +805,6 @@ The case also illustrates a recurring challenge in [UFO investigations]({{ 'ufo-
 1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link:https://www.nicap.org/reports/681024minot_[hynek  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report...</p></details>
 
 2.<a id="endnote-2"></a>

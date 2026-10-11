@@ -949,7 +949,6 @@ The mistake is assuming that expertise transforms an observation into an explana
 
 30.<a id="endnote-30"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 31.<a id="endnote-31"></a>
    Source: nap.nationalacademies.org  

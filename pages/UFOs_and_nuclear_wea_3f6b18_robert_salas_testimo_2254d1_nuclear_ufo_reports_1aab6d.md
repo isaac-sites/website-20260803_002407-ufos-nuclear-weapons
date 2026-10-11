@@ -956,4 +956,3 @@ The comparison between Salas and other nuclear UFO reports therefore shows both 
 
 36.<a id="endnote-36"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  

@@ -792,7 +792,6 @@ For the broader UFO-and-nuclear-weapons debate, Minot is therefore best understo
 3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: UF O Report Image Minot Radar/Visual Photo E-M Case Minot, North Dakota  
-   Link:https://www.nicap.org/reports/681024minot_[hynek  
 
 4.<a id="endnote-4"></a>
    Source: nicap.org  
